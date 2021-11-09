@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Textutils
+### An app which provides text utilities to the user for quickly formatting text.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
